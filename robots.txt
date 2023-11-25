@@ -1,0 +1,2 @@
+host: photoshop-cs.github.io
+Sitemap: https://photoshop-cs.github.io/sitemap.xml
